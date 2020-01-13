@@ -7,12 +7,12 @@ silakan tuliskan langkah-langkah disertai screenshotnya
 
 *Input
 
-![picture]https://github.com/devinovitasari99/uaspy20-1/blob/master/assets/ss1.PNG
+![picture](https://github.com/devinovitasari99/uaspy20-1/blob/master/assets/ss1.PNG)
 
-![picture]https://github.com/devinovitasari99/uaspy20-1/blob/master/assets/ss2.PNG
+![picture](https://github.com/devinovitasari99/uaspy20-1/blob/master/assets/ss2.PNG)
 
 *Output
 
-![picture]https://github.com/devinovitasari99/uaspy20-1/blob/master/assets/ss3.PNG
+![picture](https://github.com/devinovitasari99/uaspy20-1/blob/master/assets/ss3.PNG)
 
 3. mengcommit dan push ke repository
